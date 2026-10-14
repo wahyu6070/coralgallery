@@ -46,7 +46,8 @@ offline, and free of clutter.
 
 **Design**
 - Material 3 with dynamic color on Android 12+
-- Light, dark, or follow-system theme
+- Light, dark, or follow-system theme, with an optional dynamic-color toggle
+- In-app language picker
 - Shows up in *Open with* for images and videos from other apps
 
 **Languages:** English, Indonesian, Arabic, Japanese, Russian, Chinese.
