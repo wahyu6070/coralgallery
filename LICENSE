@@ -1,0 +1,33 @@
+Coral Gallery — Freeware License
+
+Copyright (c) 2026 wahyu6070. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+the Coral Gallery application package ("the Software", distributed as APK files
+in this repository's Releases) to install and use the Software on any number of
+devices, for personal or commercial purposes, and to redistribute unmodified
+copies of the Software, subject to the following conditions:
+
+1. The Software may not be sold, rented, or bundled into a paid product or
+   service without prior written permission from the copyright holder.
+2. You may not modify, decompile, disassemble, reverse engineer, re-sign, or
+   create derivative works of the Software, except to the extent that such
+   activity is expressly permitted by applicable law notwithstanding this
+   limitation.
+3. Redistributed copies must be the original, unmodified APK as published in
+   this repository, and must include this license.
+4. The "Coral Gallery" name and icon may not be used to identify any other
+   product without prior written permission from the copyright holder.
+
+The Software includes third-party open-source components (such as AndroidX,
+Jetpack Compose, Media3/ExoPlayer, Coil, Telephoto, PhotoEditor, and uCrop),
+which are licensed under their own respective licenses. Nothing in this license
+restricts your rights under those licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+ANY LOSS OF DATA, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
