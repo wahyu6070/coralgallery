@@ -81,5 +81,5 @@ also lists the APK's own SHA-256 checksum in its notes.
 
 ## License
 
-Coral Gallery is **freeware**: free to use and to share unmodified. See [LICENSE](LICENSE).
+Coral Gallery is released under the [MIT License](LICENSE).
 Third-party open-source libraries used in the app remain under their own licenses.
