@@ -69,7 +69,7 @@ offline, and free of clutter.
 Release APKs are signed with the following certificate:
 
 ```
-SHA-256: 70:20:70:CD:12:40:F9:63:87:8A:7C:9C:CB:6E:3B:AA:C6:60:40:03:E2:DB:CA:5F:4B:79:45:F1:F3:90:31:26:60
+SHA-256: 70:20:70:CD:12:40:F9:63:87:8A:7C:9C:B6:E3:BA:A6:C6:04:00:3E:2D:BC:A5:F4:B7:94:5F:1F:39:03:12:60
 ```
 
 Check with `apksigner verify --print-certs CoralGallery-v<version>.apk`. Each release
